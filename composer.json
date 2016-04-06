@@ -1,5 +1,6 @@
 {
-	"description": "Projeto Padrão CodeIgniter HMVC",
+	"description": "Projeto CodeIgniter HMVC",
+	"name": "lucasteleinfo/ci-design-default",
 	"type": "project",
 	"license": "MIT",
 	"support": {
